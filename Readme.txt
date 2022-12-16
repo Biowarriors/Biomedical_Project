@@ -34,8 +34,6 @@ FOOD00004 _ FDB003520 _ Phosphorus			0.040045804
 
 ### Citation
 
-Please cite the following publication if any of the results in this paper or code are beneficial in your research:
-
 ```
 ﻿@Article{Rahman2022,
 author={Rahman, Md. Mostafizur and Vadrev, Srinivas Mukund and Magana-Mora, Arturo and Levman, Jacob and Soufan, Othman},
