@@ -3,7 +3,7 @@
 library(dplyr)
 
 
-# ----------------------------- This Part is for taking Contribution threashhold of the food compound -----------------------------------------------------------
+# ----------------------------- This Part is for taking Contribution threshhold of the food compound -----------------------------------------------------------
 args <- commandArgs(TRUE)
 
 df_1 <- read.csv("dataset/food_contribution.csv", header = TRUE)
